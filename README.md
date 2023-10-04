@@ -1,4 +1,4 @@
 # machine-learning-rust
 
-- Linear Algebra
-- K-nearest neighbour
+- Linear Regression
+- K-Nearest Neighbour
