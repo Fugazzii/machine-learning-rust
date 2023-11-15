@@ -2,3 +2,4 @@
 
 - Linear Regression
 - K-Nearest Neighbour
+- Logistic Regression
