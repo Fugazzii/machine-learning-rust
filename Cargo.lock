@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
+name = "knn"
+version = "0.1.0"
+
+[[package]]
+name = "linear-regression"
+version = "0.1.0"
+
+[[package]]
+name = "logistic-regression"
+version = "0.1.0"
+
+[[package]]
 name = "machine-learning-rust"
 version = "0.1.0"
